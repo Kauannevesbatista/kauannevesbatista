@@ -1,7 +1,7 @@
 Óla :wave:
 
 
-Me chamo Kauan Neves Batista, sou um estudante de programação fullstack, atualmente estou aprendendo e criando projetos com HTML, CSS e iniciando o aprendizado de JavaScript e React.
+ Meu nome é Kauan Neves Batista, sou um estudante de programação fullstack, atualmente estou aprendendo e criando projetos com HTML, CSS e iniciando o aprendizado de JavaScript e React.
 
 
 
